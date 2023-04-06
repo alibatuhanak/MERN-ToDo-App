@@ -1,11 +1,11 @@
 ### :camera: Screenshots
 
 <div align="center">
-  <img src="https://github.com/alibatuhanak/MERN-ToDo_App/blob/main/images/1.png" alt="img"/>
-    <img src="https://github.com/alibatuhanak/MERN-ToDo_App/blob/main/images/2.png" alt="img"/>
-    <img src="https://github.com/alibatuhanak/MERN-ToDo_App/blob/main/images/3.png" alt="img"/>
-    <img src="https://github.com/alibatuhanak/MERN-ToDo_App/blob/main/images/4.png" alt="img"/>
-    <img src="https://github.com/alibatuhanak/MERN-ToDo_App/blob/main/images/5.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/MERN-ToDo-App/blob/main/images/1.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/MERN-ToDo-App/blob/main/images/2.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/MERN-ToDo-App/blob/main/images/3.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/MERN-ToDo-App/blob/main/images/4.png" alt="img"/>
+ <img src="https://github.com/alibatuhanak/MERN-ToDo-App/blob/main/images/5.png" alt="img"/>
 </div>
 
 ### :space_invader: Tech Stack
